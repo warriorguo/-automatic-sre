@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allowedTools": [
+      "Bash(ssh andrew@n85*)",
+      "Bash(ssh andrew@n169*)",
+      "Bash(ssh liuli@192.168.0.151*)"
+    ]
+  }
+}
