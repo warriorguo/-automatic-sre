@@ -1,0 +1,9 @@
+# Local configuration (contains credentials)
+local/
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
