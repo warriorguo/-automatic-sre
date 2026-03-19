@@ -54,6 +54,14 @@ When run with `--alert`, it invokes Claude CLI to diagnose and fix detected issu
 - `local/servers.md` - Infrastructure documentation and incident history
 - `local/scripts/k8s-health-check.sh` - Main health monitoring script
 - `local/logs/k8s-health.log` - Health check output logs
+- `skills/` - Claude Code skills maintained in this repo (symlinked from `~/.claude/skills/`)
+
+## Project Management
+
+This project is tracked in **Memory Flow** (https://memory-flow.local.playquota.com):
+- **Project key:** `SRE`
+- **Project ID:** `1c36f514-7516-4800-8b6c-f8fc3a2d7d17`
+- Issue keys follow the format `SRE-N`
 
 ## Known Issues
 
